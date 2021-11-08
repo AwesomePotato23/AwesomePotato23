@@ -1,8 +1,3 @@
-Cool things:
+#Hello! I'm Lolz
 
-- Teen boy
-- Pro coder B)
-- Makes HTML things
-- And Python
-- he/him
-- sus.
+I mainly make Scratch projects and convert them to HTML.
