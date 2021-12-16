@@ -1,3 +1,2 @@
-Hello! I'm Lolz
-
-I mainly make Scratch projects and convert them to HTML.
+# Woah Why Are You Here?
+hi
